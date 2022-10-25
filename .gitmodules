@@ -1,0 +1,6 @@
+[submodule "c-kzg"]
+	path = c-kzg
+	url = https://github.com/dankrad/c-kzg.git
+[submodule "blst"]
+	path = blst
+	url = https://github.com/supranational/blst.git
